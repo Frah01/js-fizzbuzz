@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-background {
+    background-color: rgba(8,59,76,255);
+}
+
+.box {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.box-orange {
+    background-color: orange
+}
+.box-blue {
+    background-color: rgba(19,137,178,255)
+}
+
+.box-green {
+    background-color: rgba(12,214,161,255)
+}
+
+.box-red {
+    background-color: rgba(240,70,111,255)
+}
+
+.box-white {
+    background-color: white;
+}
